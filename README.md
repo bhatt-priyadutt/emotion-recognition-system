@@ -23,6 +23,8 @@
 * Used Tensorflow Artificial Neural Network(ANN) model.
 * Model accuracy - 99%
 
+<img src="https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/emotion.png" />
+
 7.) Testing:
 * Used the same procedure for extracting the features of audio files for test data.
 
