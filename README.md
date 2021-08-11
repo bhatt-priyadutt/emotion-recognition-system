@@ -1,4 +1,4 @@
-# emotion-recognition-system
+# Audio-Emotion-recognition-system
 1.) Data Loading:
 * Dataset(metadata) for the audio files was loaded using pandas "read_csv()" function.
 * Loading the audio train files was done by the package "Librosa" using "load()" function.
